@@ -149,6 +149,7 @@
           <e p="Textures" t="Include" />
         </e>
         <e p="Settings" t="Include" />
+        <e p="SpaceOutsideController.cs" t="Include" />
         <e p="TrashCan.cs" t="Include" />
         <e p="TriggerZone.cs" t="Include" />
         <e p="XR" t="Include">

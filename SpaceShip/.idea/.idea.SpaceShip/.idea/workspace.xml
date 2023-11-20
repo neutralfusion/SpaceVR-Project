@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad9b088-70f1-4942-9369-28ceb2853dc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpaceShip/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpaceShip/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SpaceShip/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpaceShip/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/projector_warning.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sci-Fi Styled Modular Pack/Materials/projector_warning.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/XRSocketTagInteractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TrashCan.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Breakable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpaceOutsideController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DisableGrabbingHandModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ButtonPushOpenDoor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -50,6 +48,7 @@
         <option value="$PROJECT_DIR$/Assets/Breakable.cs" />
         <option value="$PROJECT_DIR$/Assets/XRSocketTagInteractor.cs" />
         <option value="$PROJECT_DIR$/Assets/ButtonPushOpenDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpaceOutsideController.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700421681164</updated>
       <workItem from="1700421692979" duration="6274000" />
-      <workItem from="1700503374167" duration="2203000" />
+      <workItem from="1700503374167" duration="3708000" />
     </task>
     <servers />
   </component>
