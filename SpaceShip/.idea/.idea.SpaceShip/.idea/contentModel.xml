@@ -58,6 +58,7 @@
           </e>
         </e>
         <e p="Breakable.cs" t="Include" />
+        <e p="ButtonPushOpenDoor.cs" t="Include" />
         <e p="DisableGrabbingHandModel.cs" t="Include" />
         <e p="MeteorPistol.cs" t="Include" />
         <e p="Samples" t="Include">
@@ -159,6 +160,7 @@
             <e p="Resources" t="Include" />
           </e>
         </e>
+        <e p="XRSocketTagInteractor.cs" t="Include" />
       </e>
       <e p="DocCodeExamples.csproj" t="IncludeRecursive" />
       <e p="Library" t="Include">
