@@ -61,6 +61,7 @@
         <e p="ButtonPushOpenDoor.cs" t="Include" />
         <e p="DisableGrabbingHandModel.cs" t="Include" />
         <e p="MeteorPistol.cs" t="Include" />
+        <e p="PlaySteps.cs" t="Include" />
         <e p="Samples" t="Include">
           <e p="XR Interaction Toolkit" t="Include">
             <e p="2.5.2" t="Include">
